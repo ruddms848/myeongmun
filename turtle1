@@ -1,0 +1,6 @@
+#python1. 기초다지기
+import turtle as t
+
+t.shape("turtle")
+t.toward(50)
+
